@@ -113,6 +113,7 @@
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
+  @include background-image(linear-gradient(to bottom right, #00ffff, #00ff00));
 }
 
 .contact-list,
