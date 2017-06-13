@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: "DaaM: Data as a Measurement"
 email: "phillip.h.rogers@accenture.com"
-description: >+
-  Ideas, reviews, and rants on machine intelligence, augmented experiences, and data.
-  
-
-  The views and opinions expressed on this site are those of the author and do not necessarily reflect the official policy or position of Accenture, LLP.
+description: >
+  Ideas, reviews, and rants on machine intelligence, augmented experiences,
+  and data. *** The views and opinions expressed on this site are those of the
+  author and do not necessarily reflect the official policy or position of
+  Accenture, LLP. ***
 baseurl: # the subpath of your site, e.g. /blog
 url: "http://DrPinkACN.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
