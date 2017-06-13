@@ -16,8 +16,7 @@
 title: "DaaM: Data as a Measurement"
 subtitle: hi
 email: "phillip.h.rogers@accenture.com"
-description: > # this means to ignore newlines until "baseurl:"
-  Ideas, reviews, and rants on machine intelligence, augmented experiences, and data.\N\N
+description: Ideas, reviews, and rants on machine intelligence, augmented experiences, and data.\n\n
   The views and opinions expressed on this site are those of the author and do not
   necessarily reflect the official policy or position of Accenture, LLP.
 baseurl: # the subpath of your site, e.g. /blog
