@@ -17,8 +17,9 @@ title: "DaaM: Data as a Measurement"
 email: "phillip.h.rogers@accenture.com"
 description: > # this means to ignore newlines until "baseurl:"
   Ideas, reviews, and rants on machine intelligence, augmented experiences, and data.
-  **The views and opinions expressed in this site are those of the author and
-  do not necessarily reflect the official policy or position of Accenture, LLP**
+
+  * The views and opinions expressed in this site are those of the author and
+  do not necessarily reflect the official policy or position of Accenture, LLP *
 baseurl: # the subpath of your site, e.g. /blog
 url: "http://DrPinkACN.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ""
