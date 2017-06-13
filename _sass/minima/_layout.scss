@@ -12,6 +12,7 @@
 
 .site-title {
   @include relative-font-size(1.625);
+  @include gradient(#00ffff, #00ff00);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
@@ -113,7 +114,6 @@
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
-  @include gradient(#00ffff, #00ff00);
 }
 
 .contact-list,
